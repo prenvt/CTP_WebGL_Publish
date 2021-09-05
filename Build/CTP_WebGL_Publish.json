@@ -3,7 +3,7 @@
 "productName": "CTP",
 "productVersion": "1.0",
 "dataUrl": "CTP_WebGL_Publish.data.unityweb",
-"wasmCodeUrl": "CTP_WebGL_Publish.wasm.code.unityweb",
+"wasmCodeUrl": "CTP_WebGL_Publish.wasm",
 "wasmFrameworkUrl": "CTP_WebGL_Publish.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
